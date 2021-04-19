@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list_orders" value="name:seno;datatype:int,name:customer_id;datatype:string,name:date;datatype:date,name:delivery_address;datatype:blob,name:status;datatype:string" />
+</info>
